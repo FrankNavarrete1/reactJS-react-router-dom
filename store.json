@@ -1,0 +1,33 @@
+{
+    "writers":[
+        {    
+            "id": "Breaking-Bad",
+            "name": "Breaking Bad",
+            "description": "Walter White , un profesor de química con problemas económicos a quien le diagnostican un cáncer de pulmón inoperable. Para pagar su tratamiento y asegurar el futuro económico de su familia comienza a cocinar y vender metanfetamina,1​ junto con Jesse Pinkman (Aaron Paul), un antiguo alumno suyo. La serie, ambientada y producida en Albuquerque (Nuevo México), se caracteriza por poner a sus personajes en situaciones que aparentemente no tienen salida, lo que llevó a que su creador la describa como un western contemporáneo.",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_UX477_CR0,0,477,268_AL_.jpg",
+            "movie": "https://firebasestorage.googleapis.com/v0/b/tbbt-3f985.appspot.com/o/BB%20T1%2F1x1.mp4?alt=media&token=fcd2a8f3-1c06-40d2-94cb-9e115069ca2b"
+        },
+        {   
+
+            "id": "Dr-House",
+            "name": "Dr House",
+            "description": "El Dr. House a menudo confronta con su jefa, la administradora del hospital Dra. Lisa Cuddy (Lisa Edelstein), y a su equipo de diagnóstico, debido a la gran cantidad de hipótesis que surgen con respecto a la enfermedad del paciente basadas en finas o controvertidas perspicacias. ",
+            "image": "https://www.diariolaprovinciasj.com/u/fotografias/fotosnoticias/2017/12/30/163534.jpg",
+            "movie": "https://firebasestorage.googleapis.com/v0/b/tbbt-3f985.appspot.com/o/BB%20T1%2F1x2.mp4?alt=media&token=9f99c576-42cb-4e00-a726-fc32b4018f4c"
+        },
+        {   
+
+            "id": "The-Walking-Dead",
+            "name": "The Walking Dead",
+            "description": " La serie se sitúa en un mundo postapocalíptico y está protagonizada por Rick Grimes (Andrew Lincoln), un oficial de policía que al despertar de un coma se encuentra con que la civilización ha desaparecido debido a un inexplicable fenómeno que hace que las personas muertas se pongan en pie y ataquen a las personas vivas, transformándolas a su vez en caminantes muertos (walking dead). Al encontrar a su familia, Rick se une a un grupo de supervivientes convirtiéndose en su líder. La historia narra las vivencias de dicho grupo, que debe enfrentarse tanto a los caminantes muertos, como a otros grupos de personas vivas que también luchan por subsistir e imponer su poder.",
+            "image": "http://as01.epimg.net/tikitakas/imagenes/2017/10/20/portada/1508522093_025897_1508522247_noticia_normal.jpg"
+        },
+        {   
+
+            "id": "Silicon-Valley",
+            "name": "Silicon Valley",
+            "description": "Como parte de su trabajo, el protagonista crea un novedoso software de compresión de archivos digitales. Tiene ante si dos opciones. Una es venderle los derechos de creación a la compañía para la que trabaja, la otra es crear su propia empresa. Finalmente Hendricks se decide por la segunda opción y justo en ese momento comienan sus problemas pues Hooli no está dispuesta a dejar escapar una inversión que podría reportarle millones de ganancias.",
+            "image": "https://xombit.com/files/2016/05/Silicon-Valley-serie-tv.jpg"
+        }
+    ]
+}
